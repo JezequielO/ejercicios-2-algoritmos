@@ -1,0 +1,6 @@
+c:\users\jehu\documents\visual studio 2012\Projects\ejercicios semana2 algoritmos I\ejercicios semana2 algoritmos I\bin\Debug\ejercicios semana2 algoritmos I.exe.config
+c:\users\jehu\documents\visual studio 2012\Projects\ejercicios semana2 algoritmos I\ejercicios semana2 algoritmos I\bin\Debug\ejercicios semana2 algoritmos I.exe
+c:\users\jehu\documents\visual studio 2012\Projects\ejercicios semana2 algoritmos I\ejercicios semana2 algoritmos I\bin\Debug\ejercicios semana2 algoritmos I.pdb
+c:\users\jehu\documents\visual studio 2012\Projects\ejercicios semana2 algoritmos I\ejercicios semana2 algoritmos I\obj\Debug\ejercicios semana2 algoritmos I.csprojResolveAssemblyReference.cache
+c:\users\jehu\documents\visual studio 2012\Projects\ejercicios semana2 algoritmos I\ejercicios semana2 algoritmos I\obj\Debug\ejercicios semana2 algoritmos I.exe
+c:\users\jehu\documents\visual studio 2012\Projects\ejercicios semana2 algoritmos I\ejercicios semana2 algoritmos I\obj\Debug\ejercicios semana2 algoritmos I.pdb
